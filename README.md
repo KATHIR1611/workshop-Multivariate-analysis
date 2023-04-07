@@ -101,57 +101,57 @@ Null values
 
 After cleaning
 
-![]()
+![](a4.png)
 
 Shape
 
-![]()
+![](a5.png)
 
 Skew
 
-![]()
+![](a6.png)
 
 Kurtosis
 
-![]()
+![](a7.png)
 
 Scatterplot for numerical and numerical 
 
-![]()
+![](a8.png)
 
 Boxplot for numerical and catagorical 
 
-![]()
+![](a9.png)
 
 Displot
 
-![]()
+![](a10.png)
 
 Barplot
 
-![]()
+![](a11.png)
 
 Multivariate analysis
 
 Price and Source
 
-![]()
+![](a12.png)
 
 Price and Dep_Time
 
-![]()
+![](a13.png)
 
 Price and Airline
 
-![]()
+![](a14.png)
 
 Corr()
 
-![]()
+![](a16.png)
 
 Heatmap
 
-![]()
+![](a15.png)
 
 # Result
 
