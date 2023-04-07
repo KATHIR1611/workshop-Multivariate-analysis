@@ -89,15 +89,15 @@ Bivariate analysis
 
 Dataset
 
-![]()
+![](https://github.com/KATHIR1611/workshop-Multivariate-analysis/blob/main/a1.png)
 
 Info
 
-![]()
+![](https://github.com/KATHIR1611/workshop-Multivariate-analysis/blob/main/a2.png)
 
 Null values
 
-![]()
+![](a3.png)
 
 After cleaning
 
